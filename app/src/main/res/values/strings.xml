@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListMusic</string>
+    <string name="action_settings">Settings</string>
+    <string name="erro_autenticao" />
+    <string name="title_activity_listar">listar</string>
+    <string name="title_activity_inicio_menu">InicioMenuActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="hint_search" />
+    <string name="title_activity_cadastro_musica">CadastroMusicaActivity</string>
+</resources>
